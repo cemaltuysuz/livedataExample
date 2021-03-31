@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="componentWidth">200dp</dimen>
+    <dimen name="componentHeight">50dp</dimen>
+    <dimen name="componentTextSize">30sp</dimen>
+
+</resources>
