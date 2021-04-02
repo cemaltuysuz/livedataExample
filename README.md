@@ -1,3 +1,3 @@
 ##   Description
 
-- This project is an indicator.
+- This project is a sample study
